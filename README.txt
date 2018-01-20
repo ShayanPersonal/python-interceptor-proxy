@@ -1,6 +1,6 @@
 # Python Interceptor Proxy
 
-A HTTP/HTTPS proxy for man-in-the-middle attacks in Python. This is a personal project and not refined for real-world use.
+A HTTP/HTTPS proxy for man-in-the-middle attacks in Python. This is a personal project and not refined for general use.
 
 Install ca/rootCA.pem onto the target device.
 Run mproxy.py with Python 3 on some server (make sure your firewall will allow connections from the outside world).

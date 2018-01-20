@@ -1,0 +1,12 @@
+GET /ajax/libs/clipboard.js/1.5.5/clipboard.min.js HTTP/1.1
+Host: cdnjs.cloudflare.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Connection: keep-alive
+If-Modified-Since: Wed, 22 Jun 2016 20:03:05 GMT
+Cache-Control: max-age=0
+
+[('Date', 'Sun, 19 Mar 2017 08:56:59 GMT'), ('Connection', 'keep-alive'), ('Last-Modified', 'Wed, 22 Jun 2016 20:03:05 GMT'), ('Expires', 'Fri, 09 Mar 2018 08:56:59 GMT'), ('Cache-Control', 'public, max-age=30672000'), ('Access-Control-Allow-Origin', '*'), ('CF-Cache-Status', 'HIT'), ('Vary', 'Accept-Encoding'), ('Server', 'cloudflare-nginx'), ('CF-RAY', '341f38bb4b765420-LAX')]

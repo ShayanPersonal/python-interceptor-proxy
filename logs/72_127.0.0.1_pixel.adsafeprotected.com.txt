@@ -1,0 +1,10 @@
+GET /rfw/st/72126/13379631/skeleton.gif HTTP/1.1
+Host: pixel.adsafeprotected.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Connection: keep-alive
+
+[('Server', 'nginx/1.4.7'), ('Date', 'Sun, 19 Mar 2017 08:57:08 GMT'), ('Content-Length', '0'), ('Connection', 'keep-alive'), ('P3P', 'CP="COM NAV INT STA NID OUR IND NOI"'), ('Pragma', 'no-cache'), ('Cache-Control', 'no-cache'), ('Location', 'https://static.adsafeprotected.com/skeleton.gif'), ('X-Server-Name', 'app08sje.sje.303net.pvt')]

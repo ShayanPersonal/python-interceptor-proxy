@@ -1,0 +1,13 @@
+GET /rules-p-DpZvFSYZd6xnR.js HTTP/1.1
+Host: rules.quantcount.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Connection: keep-alive
+If-Modified-Since: Sat, 04 Mar 2017 20:22:24 GMT
+If-None-Match: "8a80554c91d9fca8acb82f023de02f11"
+Cache-Control: max-age=0
+
+[('Connection', 'keep-alive'), ('Date', 'Sun, 19 Mar 2017 08:57:00 GMT'), ('ETag', '"8a80554c91d9fca8acb82f023de02f11"'), ('Cache-Control', 'max-age=86400'), ('Server', 'AmazonS3'), ('Age', '49750'), ('X-Cache', 'Hit from cloudfront'), ('Via', '1.1 d0d34a5f93a29f7ac964399e6e11557d.cloudfront.net (CloudFront)'), ('X-Amz-Cf-Id', 'qoMl2YfqcvcQjGOCGkk2afv7nhpxXvx_c2XOD3G-2w3WQ0dIQH3GSg==')]

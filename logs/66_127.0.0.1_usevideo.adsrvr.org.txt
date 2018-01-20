@@ -1,0 +1,11 @@
+GET /data/video/?ve=mute&imp=36258825-3b0c-4110-a82f-be180981c234&ag=maxe9w8&crid=mgpe12vv&cf=21311&fq=1&td_s=whisper.sh&rcats=7sp,e7y&mcat=&mste=&mfld=4&mssi=&mfsi=sjoi8afuve&sv=sharethrough&uhow=1&agsa=&rgco=United%20States&rgre=California&rgme=855&rgci=Santa%20Barbara&rgz=93106&dt=PC&osf=Windows&os=Windows10&br=Firefox&svpid=ed2e832d&rlangs=en&mlang=&did=&rcxt=Other&tmpc=13.21&vrtd=&osi=&osv=&daid=&dnr=0&vpb=&svsc=&dur=CiwKB2p0azEwazUQyUkiDgjO8JkBEgdibHVla2FpIg4IwuXQTBIHYmx1ZWthaRDJSQ..&crrelr=&mk=Unknown&mdl=Unknown&sfe=b05c7dd&vp=0 HTTP/1.1
+Host: usevideo.adsrvr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Cookie: TDID=76ffaa6c-5272-485e-8148-d47575967e56; TDCPM=CAESGgoLYWRjb25kdWN0b3ISCwjY3eKz-dLzNBAFEhIKA2FhbRILCMjKuZeCtvQ0EAUSGwoMY2hvaWNlc3RyZWFtEgsIutr2r4K29DQQBRIWCgdzZW1hc2lvEgsItrei5YK29DQQBRIWCgdhZGR0aGlzEgsI8om1xoa29DQQBRIWCgdibHVla2FpEgsI2MGnx4a29DQQBRIYCglRdWFudGNhc3QSCwie3I_ZmJL3NBAFEhUKBmNlbnRybxILCKC-1omskvc0EAUSFQoGc29ub2JpEgsIgv-O39iS9zQQBRIWCgcwNTRmMzJvEgsI-Oz5y8Ob9zQQBRIbCgxzaGFyZXRocm91Z2gSCwjCzca3iKv3NBAFEhcKCGxpdmVyYW1wEgsI6Nuu5rOr9zQQBRIYCglzdGlja3lhZHMSCwjS6fqWtKv3NBAFEhUKBmdvb2dsZRILCNjvsqu3q_c0EAUSGAoJbW9va2llLXBzEgsItozh57mr9zQQBRIXCghhcHBuZXh1cxILCOqG1NK8q_c0EAUSFgoHc3Z4OXQ1MBILCOiR9sLvq_c0EAUYASABKAIyCwjoifnvhaz3NBAFOAFSFQoGY2FzYWxlEgsIprWfn5uh9zQQBVIVCgZnb29nbGUSCwimtZ-fm6H3NBAFUhYKB3J1Ymljb24SCwimtZ-fm6H3NBAFUhkKCnJpZ2h0bWVkaWESCwjY_cSWr6H3NBAFUhcKCGFwcG5leHVzEgsI2P3Elq-h9zQQBVISCgNhYW0SCwjY_cSWr6H3NBAFUhkKCmRyYXdicmlkZ2USCwj0nsrHsaH3NBAFUhQKBXRhcGFkEgsI9J7Kx7Gh9zQQBVIWCgdhZGJyYWluEgsI9J7Kx7Gh9zQQBVIWCgdibHVla2FpEgsIzqmBzrKh9zQQBVIYCgljcm9zc3dpc2USCwjOqYHOsqH3NBAFUhgKCW1vb2tpZS1wcxILCM6pgc6yofc0EAVSFwoIcHVibWF0aWMSCwi2mOnxs6H3NBAFUhgKCWFkYWR2aXNvchILCLaY6fGzofc0EAVSEwoEa3J1eBILCLaY6fGzofc0EAVaB3N2eDl0NTBgAg..
+Connection: keep-alive
+
+[('Cache-Control', 'private'), ('Transfer-Encoding', 'chunked'), ('Server', 'Microsoft-IIS/8.5'), ('X-AspNet-Version', '4.0.30319'), ('X-Powered-By', 'ASP.NET'), ('Date', 'Sun, 19 Mar 2017 08:57:01 GMT')]

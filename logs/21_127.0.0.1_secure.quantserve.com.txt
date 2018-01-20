@@ -1,0 +1,14 @@
+GET /quant.js HTTP/1.1
+Host: secure.quantserve.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Cookie: mc=58c1e156-104c1-0432f-884c1; d=ED0BkQEBtxeBECqqML74MKiyl-zU46vZHDmKIL73C4uiC4rCAB7eEJ9An5IJyVCtUO6BDI0Q3pII4g_9sQ7aIP_yCYxwvB8d-8KCiy8Q
+Connection: keep-alive
+If-Modified-Since: Sun, 19-Mar-2017 03:48:32 GMT
+If-None-Match: M0-15e97396
+Cache-Control: max-age=0
+
+[('Connection', 'close'), ('Last-Modified', 'Sun, 19-Mar-2017 03:48:32 GMT'), ('ETag', 'M0-15e97396'), ('Content-Type', 'application/x-javascript'), ('Cache-Control', 'private, no-transform, must-revalidate, max-age=604800'), ('Expires', 'Sun, 26 Mar 2017 08:56:59 GMT'), ('Date', 'Sun, 19 Mar 2017 08:56:59 GMT'), ('Server', 'QS')]

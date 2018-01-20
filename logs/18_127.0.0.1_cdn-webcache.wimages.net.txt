@@ -1,0 +1,10 @@
+GET /img/burger_menu_icon-af110d008a039e40ce09d854b03f52c6.png?vsn=d HTTP/1.1
+Host: cdn-webcache.wimages.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Connection: keep-alive
+Cache-Control: max-age=0
+

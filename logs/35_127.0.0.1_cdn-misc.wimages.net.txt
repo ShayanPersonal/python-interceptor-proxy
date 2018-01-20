@@ -1,0 +1,10 @@
+GET /stories/b8032512-bd26-470e-bd26-1faa28412250-medium.jpg?v=2 HTTP/1.1
+Host: cdn-misc.wimages.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Connection: keep-alive
+Cache-Control: max-age=0
+

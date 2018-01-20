@@ -1,0 +1,13 @@
+GET /usersync/sharethrough/ HTTP/1.1
+Host: b1sync.zemanta.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Cookie: zuid=-t-3KxdJbGKzxHhWmzD4
+Connection: keep-alive
+
+[('Content-Type', 'text/html; charset=utf-8'), ('Content-Length', '378'), ('Connection', 'keep-alive'), ('Cache-Control', 'no-cache, no-store, must-revalidate'), ('Expires', 'Thu, 01 Dec 1994 16:00:00 GMT'), ('Location', 'https://stags.bluekai.com/site/23178?id=-t-3KxdJbGKzxHhWmzD4&redir=https%3A%2F%2Fb1sync.zemanta.com%2Fusersync%2Fbluekai%2Fcallback%2F%3Fd%3DNB2HI4DTHIXS63LBORRWQLTTNBQXEZLUNBZG65LHNAXGG33NF5ZXS3TDF53DCP3FPBRWQYLOM5ST243IMFZGK5DIOJXXKZ3IEZZW65LSMNSV62LEHVQTOOJTGUZTANJYGE2GMODDGVSTEYJTGRRGCNJUEZZW65LSMNSV65LTMVZF62LEHUWXILJTJN4GISTCI5FXU6CINBLW26SEGQ'), ('P3p', 'CP="We do not support P3P header."'), ('Pragma', 'no-cache'), ('Set-Cookie', 'zuid=-t-3KxdJbGKzxHhWmzD4; Path=/; Domain=zemanta.com; Expires=Mon, 19 Mar 2018 08:57:01 GMT; Max-Age=31536000'), ('Date', 'Sun, 19 Mar 2017 08:57:01 GMT')]
+Response body:
+b'<a href="https://stags.bluekai.com/site/23178?id=-t-3KxdJbGKzxHhWmzD4&amp;redir=https%3A%2F%2Fb1sync.zemanta.com%2Fusersync%2Fbluekai%2Fcallback%2F%3Fd%3DNB2HI4DTHIXS63LBORRWQLTTNBQXEZLUNBZG65LHNAXGG33NF5ZXS3TDF53DCP3FPBRWQYLOM5ST243IMFZGK5DIOJXXKZ3IEZZW65LSMNSV62LEHVQTOOJTGUZTANJYGE2GMODDGVSTEYJTGRRGCNJUEZZW65LSMNSV65LTMVZF62LEHUWXILJTJN4GISTCI5FXU6CINBLW26SEGQ">Found</a>.\n\n'

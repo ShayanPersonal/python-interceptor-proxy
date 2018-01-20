@@ -1,0 +1,10 @@
+GET /impression.php/f22f1d136c8993c/?api_key=107682879356830&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Cookie: datr=nmf1V6K1oRz1IF2afUfTeKRe; fr=0qQnh4tFA0BjwEfPn..BYxHo3...1.0.BYzf-U.
+Connection: keep-alive
+

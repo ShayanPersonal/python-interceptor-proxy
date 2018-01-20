@@ -1,0 +1,12 @@
+GET /analytics.js HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Connection: keep-alive
+If-Modified-Since: Sat, 18 Mar 2017 01:34:54 GMT
+Cache-Control: max-age=0
+
+[('Date', 'Sun, 19 Mar 2017 07:12:23 GMT'), ('Expires', 'Sun, 19 Mar 2017 09:12:23 GMT'), ('Age', '6276'), ('Alt-Svc', 'quic=":443"; ma=2592000; v="37,36,35"')]

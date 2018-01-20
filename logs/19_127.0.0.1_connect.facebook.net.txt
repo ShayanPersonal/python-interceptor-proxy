@@ -1,0 +1,11 @@
+GET /en_US/sdk.js HTTP/1.1
+Host: connect.facebook.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Connection: keep-alive
+If-None-Match: "0e3115dc794ea6cbab24db2d662f2bed"
+Cache-Control: max-age=0
+

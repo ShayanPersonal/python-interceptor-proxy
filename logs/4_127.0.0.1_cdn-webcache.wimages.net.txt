@@ -1,0 +1,13 @@
+GET /css/dintext-pro-a2879a2007210509a658976b4678d5f9.css?vsn=d HTTP/1.1
+Host: cdn-webcache.wimages.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Connection: keep-alive
+If-Modified-Since: Wed, 21 Sep 2016 21:39:16 GMT
+If-None-Match: "2e0123040fd7b51b70a23992bbee17b3"
+Cache-Control: max-age=0
+
+[('Content-Type', 'text/css'), ('Last-Modified', 'Wed, 21 Sep 2016 21:39:16 GMT'), ('ETag', '"2e0123040fd7b51b70a23992bbee17b3"'), ('Date', 'Sun, 19 Mar 2017 08:56:59 GMT'), ('Connection', 'keep-alive'), ('Access-Control-Allow-Origin', '*')]

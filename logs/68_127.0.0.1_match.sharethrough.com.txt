@@ -1,0 +1,10 @@
+GET /sync/v1?source_id=2TmbHfXqU5VRofT5DG4azWrS&source_user_id=272e4441-06aa-11e7-8222-005056a22faf HTTP/1.1
+Host: match.sharethrough.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Cookie: stx_user_id=276b3935-9df2-4412-9a4d-382ddce209d0
+Connection: keep-alive
+

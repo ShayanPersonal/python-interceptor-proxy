@@ -1,0 +1,11 @@
+GET /d/sync/cookie/generic?https://match.sharethrough.com/sync/v1?source_id=23hFRLRe9Wwuu5ytyUvXw7Q7&source_user_id=${ADELPHIC_CUID} HTTP/1.1
+Host: sync.ipredictive.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Cookie: cu=5e057315-0c7d-11e7-951e-813b702cddec
+Connection: keep-alive
+
+[('Date', 'Sun, 19 Mar 2017 08:57:01 GMT'), ('Location', 'https://match.sharethrough.com/sync/v1?source_id=23hFRLRe9Wwuu5ytyUvXw7Q7&source_user_id=5e057315-0c7d-11e7-951e-813b702cddec'), ('Server', 'Apache-Coyote/1.1'), ('Set-Cookie', 'cu=5e057315-0c7d-11e7-951e-813b702cddec; Domain=.ipredictive.com; Expires=Mon, 19-Mar-2018 08:57:02 GMT; Path=/'), ('X-CI-RTID', '0494023c-0c82-11e7-951e-813b702cddec'), ('Content-Length', '0'), ('Connection', 'keep-alive')]

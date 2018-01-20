@@ -1,0 +1,13 @@
+GET /assets/sfp.js HTTP/1.1
+Host: native.sharethrough.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Cookie: stx_user_id=276b3935-9df2-4412-9a4d-382ddce209d0
+Connection: keep-alive
+If-Modified-Since: Thu, 16 Mar 2017 21:59:47 GMT
+Cache-Control: max-age=0
+
+[('Connection', 'keep-alive'), ('Date', 'Sun, 19 Mar 2017 08:57:00 GMT'), ('Cache-Control', 'public, max-age=3600'), ('Expires', 'Thu, 16 Mar 2017 22:59:46 GMT'), ('Server', 'AmazonS3'), ('Vary', 'Accept-Encoding'), ('Age', '3053'), ('X-Cache', 'Hit from cloudfront'), ('Via', '1.1 3eee0cbd3400033719dc77b8f2fe35d7.cloudfront.net (CloudFront)'), ('X-Amz-Cf-Id', 'vlH8TFlm4hu67PfWiPtecFUjciYM-a24acKMq25jJui--0FYnWFXQw==')]

@@ -1,0 +1,10 @@
+GET /sync?ssp=sharethrough&user_id=276b3935-9df2-4412-9a4d-382ddce209d0 HTTP/1.1
+Host: x.bidswitch.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Cookie: tuuid=1a120ef1-da44-483f-9d1e-4a3eea326a68; tuuid_last_update=1489271356; c=1489271356
+Connection: keep-alive
+

@@ -1,0 +1,14 @@
+GET /assets/non-YT-play-squared.png HTTP/1.1
+Host: native.sharethrough.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Cookie: stx_user_id=276b3935-9df2-4412-9a4d-382ddce209d0
+Connection: keep-alive
+If-Modified-Since: Thu, 16 Mar 2017 21:59:46 GMT
+If-None-Match: "f0b94192d929d467973fabcfc20e25c0"
+Cache-Control: max-age=0
+
+[('Connection', 'keep-alive'), ('Date', 'Sun, 19 Mar 2017 08:57:02 GMT'), ('Cache-Control', 'public, max-age=3600'), ('Expires', 'Thu, 16 Mar 2017 22:59:45 GMT'), ('ETag', '"f0b94192d929d467973fabcfc20e25c0"'), ('Server', 'AmazonS3'), ('Age', '2952'), ('X-Cache', 'Hit from cloudfront'), ('Via', '1.1 ca9fae216afadb306ee73a147fd8d410.cloudfront.net (CloudFront)'), ('X-Amz-Cf-Id', 'K2iWk2YJ9NB4vlJPnzTS-6kXuT51FMZDmloIiZOK6ZQXzXqHs7mq0w==')]

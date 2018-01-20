@@ -1,0 +1,13 @@
+GET /css/videojs.ads-85f529239fb70be6fb284a5f3c79fafb.css?vsn=d HTTP/1.1
+Host: cdn-webcache.wimages.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Connection: keep-alive
+If-Modified-Since: Tue, 14 Feb 2017 21:04:19 GMT
+If-None-Match: "85f529239fb70be6fb284a5f3c79fafb"
+Cache-Control: max-age=0
+
+[('Content-Type', 'text/css'), ('Last-Modified', 'Tue, 14 Feb 2017 21:04:19 GMT'), ('ETag', '"85f529239fb70be6fb284a5f3c79fafb"'), ('Date', 'Sun, 19 Mar 2017 08:56:59 GMT'), ('Connection', 'keep-alive'), ('Access-Control-Allow-Origin', '*')]

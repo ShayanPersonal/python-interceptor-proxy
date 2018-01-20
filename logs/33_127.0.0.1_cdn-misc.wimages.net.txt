@@ -1,0 +1,13 @@
+GET /stories/17b489f9-8689-422e-bd81-b67248f29d2b-medium.jpg?v=2 HTTP/1.1
+Host: cdn-misc.wimages.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Connection: keep-alive
+If-Modified-Since: Wed, 22 Feb 2017 21:33:54 GMT
+If-None-Match: "765c19a17765a9bba9890fa54efaf141"
+Cache-Control: max-age=0
+
+[('Content-Type', 'image/jpeg'), ('Last-Modified', 'Wed, 22 Feb 2017 21:33:54 GMT'), ('ETag', '"765c19a17765a9bba9890fa54efaf141"'), ('Cache-Control', 'max-age=1296000'), ('Expires', 'Mon, 03 Apr 2017 08:57:00 GMT'), ('Date', 'Sun, 19 Mar 2017 08:57:00 GMT'), ('Connection', 'keep-alive')]

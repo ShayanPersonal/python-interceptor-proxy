@@ -1,0 +1,10 @@
+GET /tr/?id=456193254504083&ev=PageView&dl=https%3A%2F%2Fwhisper.sh%2F&rl=https%3A%2F%2Fwhisper.sh%2Fstories%2F12d7e58d-d2dd-43f1-9641-eecbd6f88b25%2FI-Got-Drunk-And-Got-Permanent-Makeup-Done-Im-A-Guy&if=false&ts=1489913821161&v=2.5.1 HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Cookie: datr=nmf1V6K1oRz1IF2afUfTeKRe; fr=0qQnh4tFA0BjwEfPn..BYxHo3...1.0.BYzf-U.
+Connection: keep-alive
+

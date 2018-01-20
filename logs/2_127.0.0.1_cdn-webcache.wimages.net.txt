@@ -1,0 +1,13 @@
+GET /css/dinround-pro-7dc5364f2edd62c215644aff97369399.css?vsn=d HTTP/1.1
+Host: cdn-webcache.wimages.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Connection: keep-alive
+If-Modified-Since: Wed, 21 Sep 2016 21:39:16 GMT
+If-None-Match: "a83b8f1f21ee4005846800c6fba5cb40"
+Cache-Control: max-age=0
+
+[('Content-Type', 'text/css'), ('Last-Modified', 'Wed, 21 Sep 2016 21:39:16 GMT'), ('ETag', '"a83b8f1f21ee4005846800c6fba5cb40"'), ('Date', 'Sun, 19 Mar 2017 08:56:59 GMT'), ('Connection', 'keep-alive'), ('Access-Control-Allow-Origin', '*')]

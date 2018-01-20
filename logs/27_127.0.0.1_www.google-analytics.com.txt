@@ -1,0 +1,9 @@
+GET /collect?v=1&_v=j49&a=1009187393&t=pageview&_s=1&dl=https%3A%2F%2Fwhisper.sh%2F&ul=en-us&de=UTF-8&dt=Whisper&sd=24-bit&sr=1536x864&vp=999x689&je=0&_u=QCCAgEAB~&jid=&cid=912133485.1489911765&tid=UA-31833046-1&cd1=0&z=341088140 HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Connection: keep-alive
+

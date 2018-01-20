@@ -1,0 +1,10 @@
+GET /v2.0/plugins/page.php?adapt_container_width=true&app_id=107682879356830&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2Fao6eUeuGXQq.js%3Fversion%3D42%23cb%3Df359bbfafc66e4%26domain%3Dwhisper.sh%26origin%3Dhttps%253A%252F%252Fwhisper.sh%252Ff303f5405e6492e%26relation%3Dparent.parent&container_width=300&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2Fwhisperapp&locale=en_US&sdk=joey&show_facepile=true&small_header=true HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Cookie: datr=nmf1V6K1oRz1IF2afUfTeKRe; fr=0qQnh4tFA0BjwEfPn..BYxHo3...1.0.BYzf-U.
+Connection: keep-alive
+

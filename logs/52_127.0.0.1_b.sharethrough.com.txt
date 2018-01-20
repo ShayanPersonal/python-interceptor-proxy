@@ -1,0 +1,11 @@
+GET /butler?type=networkImpressionRequest&pkey=mr8tNzGjjhyZK4UT85qTJnZ5&placementIndex=1&networkKey=stxnetwork&networkOrder=1&session=04460930-0c82-11e7-92a3-79d51ce70f04&bwidth=1016&bheight=689&pref=https%253A%252F%252Fwhisper.sh%252Fstories%252F12d7e58d-d2dd-43f1-9641-eecbd6f88b25%252FI-Got-Drunk-And-Got-Permanent-Makeup-Done-Im-A-Guy&ploc=https%253A%252F%252Fwhisper.sh%252F&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20WOW64%3B%20rv%3A47.0)%20Gecko%2F20100101%20Firefox%2F47.0&umtime=1489913821616&version=13-cc65961404d45cd68d5c51431c2d188eec9dc69c&uid=qjqVcJHT-1SE4DikMDijbKGO_h_XNiAr&mrid=04478fd0-0c82-11e7-92a3-79d51ce70f04&bidId=NO_BID_ID HTTP/1.1
+Host: b.sharethrough.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://whisper.sh/
+Cookie: stx_user_id=276b3935-9df2-4412-9a4d-382ddce209d0
+Connection: keep-alive
+
+[('Content-Type', 'image/gif'), ('Date', 'Sun, 19 Mar 2017 08:57:01 GMT'), ('Server', 'nginx/1.4.6 (Ubuntu)'), ('Content-Length', '0'), ('Connection', 'keep-alive')]
